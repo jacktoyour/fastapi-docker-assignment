@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "Python Programming",
+        "instructor": "Kim",
+        "credits": 3
+    },
+    {
+        "id": 2,
+        "title": "Database",
+        "instructor": "Lee",
+        "credits": 3
+    }
+]
